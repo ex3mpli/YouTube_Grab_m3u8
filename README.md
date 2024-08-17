@@ -1,9 +1,11 @@
 # YouTube Live m3u8 Grabber
+
 ### command
 ```
 py youtube_m3u8.py https://www.youtube.com/@abscbnentertainment/live kapamilya.m3u8
 ```
-Sample Result saved in a .txt file
+
+Sample Result saved in a .m3u8 file
 ```
 #EXTM3U
 #EXTINF:-1,Live
